@@ -3,7 +3,7 @@
 
 This is a application to implement Lottery application in ReactJS and Solidity. 
 
-[Youtube Tutorial](https://youtu.be/k7A0DQRegWs)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
